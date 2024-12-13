@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "finalproj-salinity-iot",
+  "private_key_id": "9b0c07e062eb148ed5ca46ef8e86f5a02cfe5c33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCknt4EW4n7gKdo\nGtJJa+C+IHVviNaxCEh20UdpbLReWC20OlG3Z/CGToZhbJPRcXAK8tfY+UF4+WuB\nglul5dOoKFhnMW1r7kNdZpjqXqByRIIwEwObXFaQNcZ87Bg4tdfe3HCYIQziIrO9\nqz5ARvClMkQ2SLa6uVIHMDB/tUQzSGQVzI4O/mKRK8WRX2rsAMD1f71AfDCbISud\n4xWDh/6TgRsgwodbFPoZe2pNyppzimAb71Uzmrx0aqWDCGDE0DjqedqMCxEfuBmq\ndnerCwXSWGPodcUFK3+8fpTxM5QMROI5AgXtWmOyavOQBicCtcZod8XNb84FCAjL\ndIlGkx/TAgMBAAECggEABbPp4GAaGpgCtKI2kLaSVY54TayBi3vMTtlseOQm0hyJ\n5h7IapXI3k46wjCUZQK3V+8WYnzYCMx92JcJ0mhwzvgpf9cALGdXoWpcIm+0F+FJ\nr/Koral4POIFW0SD3ksRDGEPQXs7oAXbENdYKQ/hZvJOgfbo5Z+6jhHcTEBHpDhv\n08njTZJ/kzeoDEZoH1n7Q29a6HcGu/Nrs5ZgnCmiES5/YeyRq6tTY+MlZErcdkm0\nzai9rJJv8t0ZckN2UZ4gywehYmrZ/1mFQKYvz7pYNIULLUXYSpcQNq9vMyMNB3PG\nuIXVtGBQGUfKKiYRo8mh9cT2d7hJlqvf/cN27GFhWQKBgQDhJahUVP3NEtsfDbK4\nJxYpqSofsHeuvmDVpUmzSDHSMD1KfnecG+Vzf6JXJPlP5G0dF8yD5hbBUagPgTFZ\nkUYTmp0JLYr5b2MBAMcXX6PKGwS+REHaxv91C45H23hqOBEIpuOT0/9q566JZ0YL\nerXcASbcjnHLmVkiFKVA95k0VwKBgQC7LePnsvVd3DeM7QPkJbBzbnfa/7GbbG0V\neN9Fmvda3YHEyMlUYuScE4eEzvU2u/krLs9p58HKDUFd9nYth8Hz3kRIn/yRq80d\n1KJbYV+l/N7wNuZF+r1o8sEbEX5BQ3rUsDzwqm+0F7AJRM0PofDo2tPMHWrv7s6W\nPr7RQLJi5QKBgQCvKypM+pdAb3Q2M+Uhq59tqGTSpOxo80vJzUCLERdaDhgRllWf\nCoE5nEsE/ApQ40sVgIeo82Iu5EYaUgzAP+vCot+c3Wcr7EKd7Cn6AHoha2YEVnza\nJ0tnmCcJtzJ3icmO7rFPOXiWh0zfMI9prP5C/k5q+RSGMHgNsPxlkH4NHwKBgG+i\nCOBw3OGjqwXDfaSdzcSqR5U3Fgfp/Iznz9FFgOySWwiv71MCv/FNvG86twhzx0E3\n47/31p3YlfmiOg0hgE0fbH4b3JhMbEK0RDhXtKHcVGHTfDaUOk7TKNQp9LCbvDAJ\nA+9M1t4DmpuMivgdzv4xNEvx54s9U7xLo6ZM/Zb5AoGAIMffRYG2PbTKds1i/9+B\n7bgW5ir49afFovdUkqOx3O6rUX3jSNtxwMauAaO2V0e9UtSlWx5ZZZ66/ZXdX3IW\nLD11x90vlFOveucO5IleiF4Yv56lZyq8gyaMKWF+u2hJLsVSD8Sa8y1rV0ktrlva\nZzVh2wQIC/Lx0ty6zVQwC1c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xiffp@finalproj-salinity-iot.iam.gserviceaccount.com",
+  "client_id": "109312484749577086408",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xiffp%40finalproj-salinity-iot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
